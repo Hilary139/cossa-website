@@ -80,7 +80,7 @@ a.menu-link { display: none; }
     float: right;
     display: block;
     font-size: 36px;
-    color: #fff;
+    color: rgb(6, 5, 5);
     padding-right: 30px;
     padding-top: 15px;
   }
@@ -100,6 +100,7 @@ a.menu-link { display: none; }
     max-height: 20em;
     height: 20em;
     overflow-y: scroll;
+    background-color: rgb(37, 42, 83);
   }
   nav[role="navigation"] ul {
     top: 0;
@@ -223,7 +224,8 @@ a.menu-link { display: none; }
 .main-menu li .sub-menu {
     position: absolute;
     width: 160px;
-    background-color: #f0f2f6;
+    background-color: #fdf7f7;
+    color: 1px solid #17223f;
     opacity: 0;
     visibility: hidden;
     transition: all 0.5s;

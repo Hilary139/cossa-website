@@ -307,7 +307,7 @@ a.menu-link { display: none; }
 .video-overlay {
     position: absolute;
     background-color: rgba(22,34,57,0.85);
-    background-image: url(../images/cossa\ pic\ gray.JPG);
+    background-image: url(../images/cossa_new_1.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     top: 0;
@@ -826,7 +826,7 @@ section.coming-soon form button {
 /* Courses */
 
 section.courses {
-    background-image: url(../images/cossa\ pic\ sign.JPG);
+    background-image: url(../images/cossa_new_7.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #172238;
